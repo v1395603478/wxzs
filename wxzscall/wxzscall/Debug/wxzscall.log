@@ -1,0 +1,4 @@
+﻿  wxzscall.cpp
+e:\vs\wxhook\wxzs\wxzscall\wxzscall\wxzscall.cpp(42): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+e:\vs\wxhook\wxzs\wxzscall\wxzscall\wxzscall.cpp(50): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+  wxzscall.vcxproj -> E:\vs\wxhook\wxzs\wxzscall\Debug\wxzscall.dll
